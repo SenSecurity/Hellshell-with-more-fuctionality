@@ -1,4 +1,4 @@
-# Hellshell with More fuctionality
+# Hellshell with more fuctionality
 
 **The tool has the following features for Encryption and Obfuscation:**
 
