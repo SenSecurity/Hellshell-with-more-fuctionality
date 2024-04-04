@@ -19,7 +19,7 @@
 
 
 ## Usage
-![GitHub Logo](/HellShell/Usage.png)
+![GitHub Logo](/HellShell/Help.png)
 ```bash
 The_Founding.exe <Input Payload FileName> <Enc/Obf *Option*> <Shellcode Execution type>
 ```
